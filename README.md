@@ -33,7 +33,7 @@
 	    </div>
 	    <div class="col-md-8">
 	      <div class="card-body">
-	        <h5 class="card-title">Card title</h5>
+	        <h5 class="card-title"></h5>
 	        <p class="card-text">KOLKATA: An 45-year-old man, who recently returned from canada, tested positive for the novel coronavirus (covid-19) on , making it the first confirmed case in North 24 Parganas(Kamarhati), a senior official of the state government said.
 
 			He started showing symptoms of COVID-19 since morning, following which he was admitted to the isolation ward of the Beliaghata ID hospital here, they said.
